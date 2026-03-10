@@ -29,3 +29,4 @@ This repository follows the Git Flow model:
 ### Install dependencies
 ```bash
 npm install
+Release version: v1.0.0
