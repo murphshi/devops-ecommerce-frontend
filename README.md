@@ -1,5 +1,5 @@
-# devops-ecommerce-frontend
-
+# devops-ecommerce-frontend 
+Release version: v1.0.0
 ## Overview
 This repository contains the frontend application for the DevOps final project e-commerce platform.
 
@@ -29,4 +29,4 @@ This repository follows the Git Flow model:
 ### Install dependencies
 ```bash
 npm install
-Release version: v1.0.0
+
