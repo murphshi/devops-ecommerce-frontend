@@ -26,8 +26,8 @@ function App() {
 
     return (
         <div>
-            <h1>E-Commerce Store</h1>
-            <h2>Products</h2>
+            <h1>DevOps E-Commerce Store</h1>
+            <h2>Available Products</h2>
             <div>
                 {products.map(product => (
                     <div key={product.id} style={{border: '1px solid #ccc', padding: '10px', margin: '10px'}}>
