@@ -33,7 +33,7 @@ function App() {
                     <div key={product.id} style={{border: '1px solid #ccc', padding: '10px', margin: '10px'}}>
                         <h3>{product.name}</h3>
                         <p>Price: ${product.price}</p>
-                        <button onClick={() => createOrder(product.id)}>Buy Now</button>
+                        <button onClick={() => createOrder(product.id)}>Place Order</button>
                     </div>
                 ))}
             </div>
